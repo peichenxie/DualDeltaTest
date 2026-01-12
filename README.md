@@ -1,4 +1,4 @@
-# Dual-Delta Test for Quantifying Numerical Accuracy
+# Dual-Delta Test for Evaluating Numerical Accuracy
 
 Suppose you implemented a custom mixed-precision function impl_1:
 - maybe a fused operator,
